@@ -7,7 +7,7 @@ Esse repositório foi criado com o objetivo de realizar o desafio do Bootcamp DI
 O desafio envolveu a Programação Orientada a Objetos (POO) com Java na abstração de um Bootcamp.</p>
 
 
-<h2>🛑 Pilares da POO abordados:</h2>
+<h2>✔ Pilares da POO abordados:</h2>
 
 <p>
 ✅ ABSTRAÇÃO;<br>
@@ -17,7 +17,7 @@ O desafio envolveu a Programação Orientada a Objetos (POO) com Java na abstra�
 </p>
 
 
-<h2>🛑 Etapas da realização do desafio </h2>
+<h2>✔ Etapas da realização do desafio </h2>
 
 <p>
 <strong>	1ª.</strong> Foi feita a ABSTRAÇÃO do DOMÍNIO do Bootcamp e MODELAGEM de seus ATRIBUTOS E MÉTODOS; <br>
