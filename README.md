@@ -10,21 +10,21 @@ O desafio envolveu a Programação Orientada a Objetos (POO) com Java na abstra�
 <h2>🛑 Pilares da POO abordados:</h2>
 
 <p>
-✅ ABSTRAÇÃO<br>
-✅ ENCAPSULAMENTO<br>
-✅ HERANÇA<br>
-✅ POLIMORFISMO<br>
+✅ ABSTRAÇÃO;<br>
+✅ ENCAPSULAMENTO;<br>
+✅ HERANÇA;<br>
+✅ POLIMORFISMO.<br>
 </p>
 
 
 <h2>🛑 Etapas da realização do desafio </h2>
 
 <p>
-<strong>	1º.</strong> Foi feita a ABSTRAÇÃO do DOMÍNIO do Bootcamp e MODELAGEM de seus ATRIBUTOS E MÉTODOS; <br>
-<strong>	2º.</strong> Criação de CLASSES: Bootcamp, Cursos, Mentorias e Devs e seus relacionamentos; <br>
-<strong>	3.</strong> As CLASSES Curso, Mentoria e Devs também foram MODELADOS, ou seja, foram criados seus ATRIBUTOS E MÉTODOS; <br> 
-<strong>	4.</strong> Foram utilizadas ferramentas do PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO): ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO; <br>
-<strong>	5.</strong> Transformação de CLASSES em objetos.<br>
+<strong>	1ª.</strong> Foi feita a ABSTRAÇÃO do DOMÍNIO do Bootcamp e MODELAGEM de seus ATRIBUTOS E MÉTODOS; <br>
+<strong>	2ª.</strong> Criação de CLASSES: Bootcamp, Cursos, Mentorias e Devs e seus relacionamentos; <br>
+<strong>	3ª.</strong> As CLASSES Curso, Mentoria e Devs também foram MODELADOS, ou seja, foram criados seus ATRIBUTOS E MÉTODOS; <br> 
+<strong>	4ª.</strong> Foram utilizadas ferramentas do PARADIGMA DE ORIENTAÇÃO A OBJETOS (POO): ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO; <br>
+<strong>	5ª.</strong> Transformação de CLASSES em objetos.<br>
 </p>
 
 ------------
