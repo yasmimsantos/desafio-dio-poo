@@ -1,6 +1,6 @@
 <h1> Desafio DIO Orange Tech + | BackEnd : Abstraindo um Bootcamp Usando a Orientação a Objetos em Java</h1>
 
-<p> 🖖 Olá!<br>
+<p> 👋 Olá!<br>
 
 Esse repositório foi criado com o objetivo de realizar o desafio do Bootcamp DIO Orange Tech + | BackEnd.<br> 
 
